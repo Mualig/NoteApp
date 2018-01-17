@@ -1,3 +1,3 @@
-#Application pour le cours Udemy + des tests avec GH
+# Application pour le cours Udemy + des tests avec GH
 
-Modification du readmme !
+Modification du readme !
